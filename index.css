@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  .hi{
+    background-color: aqua;
+    border: 1.5px solid gainsboro;
+    margin: 10rem 20rem;
+    border-radius: 12px;
+    padding: 2rem;
+  }
+  h1 {
+    color: #333;
+  }
+  
+  input[type="file"] {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-top: 10px;
+    
+  }
+  
+  a {
+    margin-top: 20px;
+  }
+  
